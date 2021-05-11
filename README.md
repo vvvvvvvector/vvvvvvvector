@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vvvvvvvector
 - 👀 I’m interested in programming and math
-- 🌱 I’m currently learning java and C
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on ...(i'll think)
 - 📫 How to reach me viktorzhdanovich@gmail.com
 
