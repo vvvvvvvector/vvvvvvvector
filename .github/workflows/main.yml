@@ -17,5 +17,6 @@ jobs:
           
           user: vvvvvvvector
           template: classic
+          plugin_activity: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
