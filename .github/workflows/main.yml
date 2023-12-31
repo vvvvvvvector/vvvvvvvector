@@ -24,5 +24,7 @@ jobs:
           plugin_languages_ignored: tex, scss, java, C#, glsl, css, html, shell, jupyter notebook, dockerfile, C++
           plugin_languages_details: percentage
           config_timezone: Europe/Warsaw
+          plugin_stars: yes
+          plugin_stars_limit: 3
           plugin_lines: yes
           
