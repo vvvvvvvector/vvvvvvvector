@@ -17,7 +17,7 @@ jobs:
           
           user: vvvvvvvector
           template: classic
-          base: header, repositories
+          base: header
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
