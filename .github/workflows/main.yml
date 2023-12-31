@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: header, repositories
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_ignored: tex, scss, java, C#, glsl, css, html, shell, jupyter notebook, dockerfile, C++
           plugin_languages_details: percentage
