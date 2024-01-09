@@ -71,9 +71,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.89335809272256" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.89335809272256" y="0" width="9.125846076150763" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.01920416887333" y="0" width="1.980795831126664" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.8966580287731" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.8966580287731" y="0" width="9.123134661781789" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.0197926905549" y="0" width="1.9802073094450898" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1208,7 +1208,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        948
+                                        949
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1227,7 +1227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mylesmmurphy/prettify-ts</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prettify TypeScript: Better Type Previews</div>
