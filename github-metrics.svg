@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,9 +71,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.71030389482365" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.71030389482365" y="0" width="9.27625377341562" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.9865576682393" y="0" width="2.0134423317607455" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.89335809272256" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.89335809272256" y="0" width="9.125846076150763" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.01920416887333" y="0" width="1.980795831126664" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -85,7 +85,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>97.55%</div>
+                                <div>97.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -96,7 +96,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>0.44%</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                     </section>
@@ -109,7 +109,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.02%</div>
+                                <div>1.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1174,7 +1174,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trpc/trpc</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</div>
@@ -1280,7 +1280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>exelban/stats</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macOS system monitor in your menu bar</div>
