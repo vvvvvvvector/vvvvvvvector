@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,9 +71,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.8966580287731" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.8966580287731" y="0" width="9.123134661781789" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.0197926905549" y="0" width="1.9802073094450898" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.89645959180757" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.89645959180757" y="0" width="9.123297708832254" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.0197573006398" y="0" width="1.9802426993601887" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1179,7 +1179,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trpc/trpc</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</div>
@@ -1285,7 +1285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>exelban/stats</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macOS system monitor in your menu bar</div>
