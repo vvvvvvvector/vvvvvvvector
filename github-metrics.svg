@@ -71,9 +71,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0746716529879" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.0746716529879" y="0" width="9.145301250685806" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.2199729036737" y="0" width="1.7800270963263203" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0352870316057" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.0352870316057" y="0" width="9.178269067829941" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.21355609943566" y="0" width="1.7864439005643318" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -109,7 +109,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.99%</div>
+                                <div>2%</div>
                             </small>
                         </div>
                     </section>
@@ -1249,7 +1249,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        5
+                                        6
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
