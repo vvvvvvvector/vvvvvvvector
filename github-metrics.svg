@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,9 +71,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0501017836262" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.0501017836262" y="0" width="9.16586803365705" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.2159698172832" y="0" width="1.7840301827167588" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0502246621091" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.0502246621091" y="0" width="9.165765175353151" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.21598983746225" y="0" width="1.7840101625377616" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1227,7 +1227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mylesmmurphy/prettify-ts</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prettify TypeScript: Better Type Previews</div>
