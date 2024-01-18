@@ -71,9 +71,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.02361871678687" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.02361871678687" y="0" width="9.188036303259103" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.21165502004595" y="0" width="1.7883449799540134" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.934015909127" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.934015909127" y="0" width="9.263040426057945" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.197056335185" y="0" width="1.8029436648150625" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -85,7 +85,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>97.61%</div>
+                                <div>97.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -109,7 +109,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>2%</div>
+                                <div>2.01%</div>
                             </small>
                         </div>
                     </section>
@@ -1218,7 +1218,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        956
+                                        957
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
