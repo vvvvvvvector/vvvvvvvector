@@ -71,8 +71,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.11632275389945" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.11632275389945" y="0" width="1.8836772461005442" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.1059391395593" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.1059391395593" y="0" width="1.8940608604407134" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1161,7 +1161,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabien0102/ts-to-zod</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate zod schemas from typescript types/interfaces</div>
