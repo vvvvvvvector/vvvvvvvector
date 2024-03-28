@@ -71,8 +71,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.0974371658731" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.0974371658731" y="0" width="1.9025628341268992" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.0980653028768" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.0980653028768" y="0" width="1.9019346971231725" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1172,7 +1172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabien0102/ts-to-zod</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate zod schemas from typescript types/interfaces</div>
@@ -1278,7 +1278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/turbo</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.</div>
