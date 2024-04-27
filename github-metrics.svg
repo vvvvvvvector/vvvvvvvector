@@ -71,8 +71,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.107040882816" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.107040882816" y="0" width="1.8929591171839826" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.1070197075332" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.1070197075332" y="0" width="1.8929802924668395" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1145,7 +1145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/ms</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny millisecond conversion utility</div>
