@@ -1157,7 +1157,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VonHeikemen/lsp-zero.nvim</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starting point to setup some lsp related features in neovim.</div>
@@ -1191,7 +1191,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        232
+                                        233
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1210,7 +1210,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wbthomason/packer.nvim</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config</div>
@@ -1263,7 +1263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/lazy.nvim</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💤 A modern plugin manager for Neovim</div>
