@@ -1151,7 +1151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jashkenas/underscore</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript's utility _ belt</div>
@@ -1204,7 +1204,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VonHeikemen/lsp-zero.nvim</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starting point to setup some lsp related features in neovim.</div>
@@ -1257,7 +1257,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wbthomason/packer.nvim</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config</div>
