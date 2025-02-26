@@ -1161,7 +1161,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>47ng/nuqs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.</div>
@@ -1267,7 +1267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>biomejs/biome</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</div>
