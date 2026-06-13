@@ -1145,7 +1145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shellRaining/hlchunk.nvim</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</div>
