@@ -1145,7 +1145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shellRaining/hlchunk.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</div>
@@ -1198,7 +1198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extend-hq/ui</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1252,7 +1252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flightcontrolhq/superjson</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.</div>
